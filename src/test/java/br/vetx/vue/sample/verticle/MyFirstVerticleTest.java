@@ -1,11 +1,11 @@
-package br.vetx.vue.sample;
+package br.vetx.vue.sample.verticle;
 
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 
-import br.vertx.vue.sample.MyFirstVerticle;
+import br.vertx.vue.sample.verticle.MyFirstVerticle;
 import io.vertx.core.Vertx;
 import io.vertx.ext.unit.Async;
 import io.vertx.ext.unit.TestContext;
